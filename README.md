@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=Tola-lemma&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 working at Awura Computing PLC<br><br>🌱 Exploring the world of technology<br><br>⚡ All of my projects are available at   https://github.com/Tola-lemma/<br><br>💬 Ask me about Mongodb,ExpressJs,ReactJs,NodeJs,Java,C,MySql,SQL,Javascript <br><br>📫 reach me   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](mailto:tolalemma@gmail.com)  
+🔭 working at Awura Computing PLC<br><br>🌱 Exploring the world of technology<br><br>⚡ All of my projects are available at   https://github.com/Tola-lemma/<br><br>💬 Ask me about Mongodb, ExpressJs, ReactJs, NodeJs, Java, C++, MySql, SQL, Javascript <br><br>📫 reach me   [ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](mailto:tolalemma@gmail.com)  
 
 
 ## 🌐 Social Medias:
