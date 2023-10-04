@@ -5,14 +5,11 @@
 # 💫 About Me: 
 <span> <img src="https://komarev.com/ghpvc/?username=Tola-lemma&label=Profile%20views&color=brightgreen&style=flat" alt="Tola-Lemma" /> </span><br/><br/>🔭 Working at Awura Computing PLC <br><br>🌱 Exploring the world of technology.  <br><br>⚡ All of my projects are available at [![Dev Community](https://img.shields.io/badge/GitHub-100000?style=badge&logo=github&logoColor=white)](https://github.com/Tola-lemma) <br><br>💬 Ask me about Mongodb, ExpressJs, ReactJs, NodeJs, Java, C++, MySql, SQL, Javascript <br><br>📫 reach me at  [ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](mailto:tolalemma@gmail.com)  
 
+
+
 ## 🌐 Social Medias: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolalemma/)  
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=badge&logo=telegram&logoColor=white)](https://t.me/tolalemma) 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tolalemma/) 
- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=badge&logo=facebook&logoColor=white)](https://m.facebook.com/m.tolalemma)  
- [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=badge&logo=twitter&logoColor=white)](https://twitter.com/TolaLemma)
- [![Dev Community](https://img.shields.io/badge/GitHub-100000?style=badge&logo=github&logoColor=white)](https://github.com/Tola-lemma)
- [![Portifolio](https://img.shields.io/website-Portifolio-down--red/http/monip.org.svg)](https://portfolio-tolalemma.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolalemma/)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=badge&logo=telegram&logoColor=white)](https://t.me/tolalemma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tolalemma/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=badge&logo=facebook&logoColor=white)](https://m.facebook.com/m.tolalemma)  [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=badge&logo=twitter&logoColor=white)](https://twitter.com/TolaLemma) [![Dev Community]( https://img.shields.io/badge/GitHub-100000?style=badge&logo=github&logoColor=white)](https://github.com/Tola-lemma)   [![Portifolio](https://img.shields.io/website-Portifolio-down--red/http/monip.org.svg)](https://portfolio-tolalemma.onrender.com/)
+
 
 
 # 💻 Tech Stack:
