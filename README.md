@@ -7,7 +7,7 @@
 # 💫 About Me:  
 <span><img src="https://komarev.com/ghpvc/?username=Tola-lemma&label=Profile%20views&color=brightgreen&style=flat" alt="Tola-Lemma" /> 
 
-</span><br/><br/>🔭 Worked at Awura Computing PLC <br><br/>🔭 Currently Working at Oromia Bank SC.(IT System Security Engineer). <br><br>🌱 Exploring the world of technology.  <br><br>⚡ All of my projects are available at  [![Dev Community](https://img.shields.io/badge/GitHub-100000?style=badge&logo=github&logoColor=white)](https://github.com/Tola-lemma) <br><br>💬 Ask me about Mongodb, ExpressJs, ReactJs, NodeJs, Java, C++, MySql, SQL, Javascript <br><br>📫 reach me at  [ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](mailto:tolalemma@gmail.com)  
+</span><br/><br/>🔭 Worked at Awura Computing PLC <br><br/>🔭 Currently Working at Oromia Bank(System Security Engineer). <br><br>🌱 Exploring the world of technology.  <br><br>⚡ All of my projects are available at  [![Dev Community](https://img.shields.io/badge/GitHub-100000?style=badge&logo=github&logoColor=white)](https://github.com/Tola-lemma) <br><br>💬 Ask me about Mongodb, ExpressJs, ReactJs, NodeJs, Java, C++, MySql, SQL, Javascript <br><br>📫 reach me at  [ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](mailto:tolalemma@gmail.com)  
 
 
 
