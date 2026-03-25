@@ -37,7 +37,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![](https://github-profile-trophy.vercel.app/?username=Tola-lemma&theme=onedark)](https://github.com/Tola-lemma/github-profile-trophy)
+ ![trophy](https://github-profile-trophy.vercel.app/?username=Tola-lemma&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
